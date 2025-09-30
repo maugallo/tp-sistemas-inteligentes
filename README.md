@@ -4,7 +4,7 @@ Este repositorio contiene el Trabajo Práctico para la materia de Sistemas Intel
 
 ## Estructura del Proyecto
 
-- **/datasets**: Contiene un archivo `datasets.zip` con todos los CSV utilizados.
+- **/datasets**: Carpeta que se debe crear manualmente y donde se almacenarán los datasets utilizados.
 - **/notebooks**: Contiene los Jupyter Notebooks con el código y análisis de cada tarea.
 - **/informe**: Contiene los informes en formato .docx que detallan los hallazgos y conclusiones.
 
