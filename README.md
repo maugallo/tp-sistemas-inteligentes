@@ -35,7 +35,6 @@ Esto leerá el archivo `requirements.txt` y instalará las versiones correctas d
 
 - **Notebook**: `notebooks/clasification.ipynb`
 - **Dataset**: `datasets/personality.csv`
-- **Informe**: `informe/TP Individual - Clasificación.docx`
 
 ### Descripción
 En este notebook, se realiza una tarea de **clasificación binaria** para predecir si una persona es introvertida o extrovertida. Se aplican técnicas de limpieza de datos, transformación y escalado, y se entrenan y evalúan tres modelos: **Regresión Logística**, **Random Forest** y **K-Nearest Neighbors**.
@@ -46,18 +45,16 @@ En este notebook, se realiza una tarea de **clasificación binaria** para predec
 
 - **Notebook**: `notebooks/regresion.ipynb`
 - **Dataset**: `datasets/carprices.csv`
-- **Informe**: `informe/TP Grupal - Regresión.docx`
 
 ### Descripción
 Este notebook aborda un problema de **regresión** para predecir el precio de venta de vehículos (MSRP). Se realiza un análisis exploratorio, preprocesamiento y se entrenan varios modelos de regresión para estimar los precios.
 
 ---
 
-## 3. Aprendizaje No Supervisado (TP Grupal)
+## 3. Clustering (TP Grupal)
 
-- **Notebook**: `notebooks/unsupervised.ipynb`
-- **Dataset**: `datasets/creditcard.csv`
-- **Informe**: `informe/TP Grupal - Aprendizaje No Supervisado.docx`
+- **Notebook**: `notebooks/clustering.ipynb`
+- **Dataset**: `datasets/countries.csv`
 
 ### Descripción
-Se explora la **detección de anomalías** en transacciones de tarjetas de crédito. Utilizando **Isolation Forest**, el modelo identifica transacciones fraudulentas sin supervisión previa.
+Este notebook utiliza un modelo de **aprendizaje no supervisado de clustering** para separar un dataset de países en distintos grupos de acuerdo con las características que analice el modelo.
